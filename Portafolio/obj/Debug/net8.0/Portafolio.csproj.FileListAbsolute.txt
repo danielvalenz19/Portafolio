@@ -28,3 +28,4 @@ C:\Repositorios\C#\Portafolio\Portafolio\obj\Debug\net8.0\refint\Portafolio.dll
 C:\Repositorios\C#\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.pdb
 C:\Repositorios\C#\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.genruntimeconfig.cache
 C:\Repositorios\C#\Portafolio\Portafolio\obj\Debug\net8.0\ref\Portafolio.dll
+C:\Repositorios\C#\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.sourcelink.json
