@@ -25,6 +25,18 @@
       "PackagePath": "staticwebassets\\imagenes\\Logo.png"
     },
     {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Proyecto1.png",
+      "PackagePath": "staticwebassets\\imagenes\\Proyecto1.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Proyecto2.png",
+      "PackagePath": "staticwebassets\\imagenes\\Proyecto2.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Proyecto3.png",
+      "PackagePath": "staticwebassets\\imagenes\\Proyecto3.png"
+    },
+    {
       "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
