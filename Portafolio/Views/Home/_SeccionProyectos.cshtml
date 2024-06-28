@@ -1,32 +1,12 @@
-﻿
-@model IEnumerable<ProyectoDTO>
+﻿@model IEnumerable<ProyectoDTO>
 
 @if (Model is not null)
 {
+
 	<div class="text-center" style="padding-top: 6rem ;">
 		<h1>Mis trabajos recientes</h1>
 		<p>Aquí puedes ver algunos de mis proyectos mas recientes.</p>
 	</div>
 
-	<div class="container">
-		<div class="row row-cols-1 row-cols-md-3 g-4">
-
-			@foreach (var proyectoDTO in Model)
-			{
-
-				<div class="col">
-					<div class="card h-100">
-						<img src="@proyectoDTO.ImagenURL" class="card-img-top" alt="imagen proyecto" />
-						<div>
-							<h5 class="card-title">@proyectoDTO.Titulo</h5>
-							<p class="card-text">@proyectoDTO.Descripcion</p>
-						</div>
-						<div class="card-footer">
-							<a class="btn btn-primary" href="@proyectoDTO.Link" target="_blank" rel="noopener noreferrer">Visitar</a>
-						</div>
-					</div>
-				</div>
-			}
-		</div>
-	</div>
+	<partial name="_listadoProyectos" model="Model"/>
 }
