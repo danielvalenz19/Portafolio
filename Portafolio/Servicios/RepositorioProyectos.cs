@@ -10,38 +10,46 @@ namespace Portafolio.Servicios
 	public class RepositorioProyectos : IRepositorioProyectos
 	{
 
-		public List<ProyectoDTO> ObtenerProyectos() 
+		public List<ProyectoDTO> ObtenerProyectos()
 		{
 			return new List<ProyectoDTO> {
 				new ProyectoDTO
 			{
-				Titulo=".net Proyectos",
-				Descripcion="Desarrollador de C#; desarrolle una parte de C# ",
-				Link="https://google.com ",
-				ImagenURL="/imagenes/Proyecto1.png"
+				Titulo="To Do",
+				Descripcion="Pequeña herramienta de lista de tareas",
+				Link="https://github.com/danielvalenz19/To-Do-asp.net",
+				ImagenURL="/imagenes/TODO.png"
 
 			},
 				new ProyectoDTO
 			{
-				Titulo="Spotify Page",
-				Descripcion="Desarrollador Del front de Spotify ",
-				Link="https://google.com ",
-				ImagenURL="/imagenes/Proyecto2.png"
+				Titulo="Manejo de presupuesto",
+				Descripcion="Aplicacion donde pueden consultar sus finanzas",
+				Link="https://github.com/danielvalenz19/Manejador-de-presupuestos",
+				ImagenURL="/imagenes/ManejoPre.png"
 
 			},
 				new ProyectoDTO
 			{
-				Titulo="Desarrollador de meta",
-				Descripcion="Desarrolle la marketplace solito ",
-				Link="https://google.com ",
-				ImagenURL="/imagenes/Proyecto3.png"
+				Titulo="Manejador de nominas",
+				Descripcion="Aplicacion para empresas para poder administrar las nominas pagos etc",
+				Link="https://github.com/danielvalenz19/TConsultingSA",
+				ImagenURL="/imagenes/presupuesto.png"
 
 			},
 				new ProyectoDTO
 			{
-				Titulo="ASP.NET",
-				Descripcion="Desarrolle ASP.NET para microsoft ",
-				Link="https://google.com ",
+				Titulo="Todo Js",
+				Descripcion="Aplicacion sobre lista de tarea hecho en Javascript",
+				Link="https://github.com/danielvalenz19/To-Do",
+				ImagenURL="/imagenes/todoJs.png"
+
+			},
+					new ProyectoDTO
+			{
+				Titulo="Ecommerce",
+				Descripcion="Trabajo universitario, tienda enlinea",
+				Link="https://github.com/esdrasspd/ProyectoDB2",
 				ImagenURL=""
 
 			},

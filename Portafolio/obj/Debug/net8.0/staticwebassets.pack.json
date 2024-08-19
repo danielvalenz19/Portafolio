@@ -21,8 +21,16 @@
       "PackagePath": "staticwebassets\\imagenes\\Daniel.jpeg"
     },
     {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Daniformal.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Daniformal.jpeg"
+    },
+    {
       "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Logo.png",
       "PackagePath": "staticwebassets\\imagenes\\Logo.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\ManejoPre.png",
+      "PackagePath": "staticwebassets\\imagenes\\ManejoPre.png"
     },
     {
       "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Proyecto1.png",
@@ -35,6 +43,18 @@
     {
       "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Proyecto3.png",
       "PackagePath": "staticwebassets\\imagenes\\Proyecto3.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\TODO.png",
+      "PackagePath": "staticwebassets\\imagenes\\TODO.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\presupuesto.png",
+      "PackagePath": "staticwebassets\\imagenes\\presupuesto.png"
+    },
+    {
+      "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\imagenes\\todoJs.png",
+      "PackagePath": "staticwebassets\\imagenes\\todoJs.png"
     },
     {
       "Id": "C:\\Repositorios\\C#\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
